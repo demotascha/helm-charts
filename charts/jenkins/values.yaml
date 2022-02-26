@@ -239,6 +239,7 @@ controller:
     - workflow-aggregator:2.6
     - git:4.10.2
     - configuration-as-code:1.55.1
+    - hashicorp-vault-plugin:336.v182c0fbaaeb7
 
   # Set to false to download the minimum required version of all dependencies.
   installLatestPlugins: true
